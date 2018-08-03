@@ -1,0 +1,5 @@
+touchMux      KEYWORD1
+read          KEYWORD2
+touched       KEYWORD2
+setTreshold   KEYWORD2
+autoTreshold  KEYWORD2
